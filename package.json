@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "ethereum-tests": "git+https://github.com/ethereum/tests.git",
-    "ethereumjs-blockchain": "0.0.0",
+    "ethereumjs-blockchain": "git+https://github.com/ethereum/ethereumjs-blockchain.git",
     "ethereumjs-tx": "^0.5.9",
     "level": "^1.3.0",
     "levelup": "^1.2.1",
